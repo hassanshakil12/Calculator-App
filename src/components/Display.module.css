@@ -1,0 +1,15 @@
+.container {
+    width: 100%;
+    margin-bottom: 10px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+input {
+    width: 100%;
+    padding: 40px 5px 0px 5px;
+    outline: none;
+    position: relative;
+}
