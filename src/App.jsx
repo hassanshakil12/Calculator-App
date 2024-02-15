@@ -21,6 +21,7 @@ const App = () => {
   return (
     <>
       <Container>
+        <h1>Calculator</h1>
         <Display displayValue={calValue}/>
         <Button onClickHandler={onClickHandler} />
       </Container>
